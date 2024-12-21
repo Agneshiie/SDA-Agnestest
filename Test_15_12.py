@@ -6,7 +6,7 @@ print (apples_amount)
 print(apples_amount, type(apples_amount))
 
 #boolean variable 
-adult = "true"
+adult = True
 print(adult)
 print(adult, type(adult))
 
